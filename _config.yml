@@ -1,4 +1,3 @@
-layout_spectrum: 0.6817886256612837
 typography_spectrum: 0.48213399248197675
 color:
   brandStrength: 0.026771839940920472
@@ -11,4 +10,6 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.6817886256612837
 name: 'Teste Ideia '
+title: Ideia Marca
